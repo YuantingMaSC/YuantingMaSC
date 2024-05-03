@@ -3,7 +3,7 @@
  * @Github       : https://github.com/YuantingMaSC
  * @LastEditors  : yuanting 
  * @Date         : 2024-05-03 15:17:01
- * @LastEditTime : 2024-05-03 17:18:48
+ * @LastEditTime : 2024-05-03 17:21:02
  * @FilePath     : /YuantingMaSC/README.md
  * @Description  : 
  * Copyright (c) 2024 by Yuanting_Ma@163.com, All Rights Reserved. 
@@ -27,7 +27,7 @@
 <table style="border-collapse: collapse; border: none;">
   <tr>
     <td valign="center" width="50%" style="border: none;">
-<!-- 自我介绍部分 -->
+
 - 🔭 I’m a PhD student in OUC, Qingdao
 
 - 🌱 Interested in deep learning, Programming
