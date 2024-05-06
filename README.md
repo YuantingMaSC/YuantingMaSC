@@ -3,7 +3,7 @@
  * @Github       : https://github.com/YuantingMaSC
  * @LastEditors  : yuanting 
  * @Date         : 2024-05-03 15:17:01
- * @LastEditTime : 2024-05-06 17:09:28
+ * @LastEditTime : 2024-05-06 17:10:36
  * @FilePath     : /YuantingMaSC/README.md
  * @Description  : 
  * Copyright (c) 2024 by Yuanting_Ma@163.com, All Rights Reserved. 
@@ -13,6 +13,15 @@
 <!--
 ###### - Languages and Tools...
   <span style="vertical-align: middle; color: black; font-size: 16px; font-family: 'Arial'; font-weight: bold;">Languages & Tools:</span>
+  <style>
+table {
+    border-collapse: collapse;
+}
+td, th {
+    border: none
+    padding: 8px
+}
+</style>
 -->
  <p align="left">
   <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
@@ -23,17 +32,9 @@
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px" height="20">
 </p>
 
-<style>
-table {
-    border-collapse: collapse;
-}
-td, th {
-    border: none
-    padding: 8px
-}
-</style>
 
-<table style="border-collapse: collapse; border: 0;">
+
+<table style="border-collapse: collapse">
   <tr>
     <td valign="center" width="50%" style="border: 0;">
 
