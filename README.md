@@ -1,13 +1,14 @@
-<!--
+﻿<!--
  * @Author       : Yuanting Ma
  * @Github       : https://github.com/YuantingMaSC
  * @LastEditors  : yuanting 
  * @Date         : 2024-05-03 15:17:01
- * @LastEditTime : 2024-05-03 17:21:02
+ * @LastEditTime : 2024-05-06 16:51:20
  * @FilePath     : /YuantingMaSC/README.md
  * @Description  : 
  * Copyright (c) 2024 by Yuanting_Ma@163.com, All Rights Reserved. 
 -->
+
 ### Yoo, This is Yuanting 👋
 <em><b> A person with interest as motivation. </b></em>
 
@@ -37,7 +38,8 @@
     <!-- GitHub Readme Stats -->
     <td valign="center" width="50%" style="border: none;">
 
-[![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=YuantingMaSc&hide=prs&count_private=true&include_all_commits=true&show_icons=true&theme=swift)]() 
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=YuantingMaSc&show_icons=true&theme=transparent)
+
 </td>
   </tr>
 </table>
