@@ -3,7 +3,7 @@
  * @Github       : https://github.com/YuantingMaSC
  * @LastEditors  : yuanting 
  * @Date         : 2024-05-03 15:17:01
- * @LastEditTime : 2024-05-06 16:53:46
+ * @LastEditTime : 2024-05-06 16:55:40
  * @FilePath     : /YuantingMaSC/README.md
  * @Description  : 
  * Copyright (c) 2024 by Yuanting_Ma@163.com, All Rights Reserved. 
@@ -12,10 +12,11 @@
 <em><b> A person with interest as motivation. </b></em> [![Github Follow](https://img.shields.io/github/followers/YuantingMaSc?label=Follow%20Me&style=social)](https://github.com/YuantingMaSc)  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eeht1717@gmail.com)](mailto:ma09262012@gmail.com)
 <!--
 ###### - Languages and Tools...
+  <span style="vertical-align: middle; color: black; font-size: 16px; font-family: 'Arial'; font-weight: bold;">Languages & Tools:</span>
 -->
  <p align="left">
   <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-  <span style="vertical-align: middle; color: black; font-size: 16px; font-family: 'Arial'; font-weight: bold;">Languages & Tools:</span>
+  <em><b> Languages & Tools: </b></em>
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px" height="24">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/csharp.svg" alt="csharp" style="vertical-align:top; margin:4px" height="24">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/datascience.svg" alt="datascience" style="vertical-align:top; margin:4px" height="24">
