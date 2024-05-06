@@ -3,13 +3,13 @@
  * @Github       : https://github.com/YuantingMaSC
  * @LastEditors  : yuanting 
  * @Date         : 2024-05-03 15:17:01
- * @LastEditTime : 2024-05-06 21:49:12
+ * @LastEditTime : 2024-05-06 21:51:25
  * @FilePath     : /YuantingMaSC/README.md
  * @Description  : 
  * Copyright (c) 2024 by Yuanting_Ma@163.com, All Rights Reserved. 
 -->
 ### Yoo, This is Yuanting 👋
-<em><b> A person with interest as motivation. </b></em> <img src="https://img.shields.io/github/followers/YuantingMaSc?label=Follow%20Me&style=social" alt="python" style="vertical-align:top; margin:4px" height="20"> <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eeht1717@gmail.com" alt="python" style="vertical-align:top; margin:4px" height="20">
+<em><b> A person with interest as motivation. </b></em> <img src="https://img.shields.io/github/followers/YuantingMaSc?label=Follow%20Me&style=social" alt="python" style="vertical-align:top; margin:4px" height="16"> <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eeht1717@gmail.com" alt="python" style="vertical-align:top; margin:4px" height="16">
 <!--
 ###### - Languages and Tools...
   <span style="vertical-align: middle; color: black; font-size: 16px; font-family: 'Arial'; font-weight: bold;">Languages & Tools:</span>
