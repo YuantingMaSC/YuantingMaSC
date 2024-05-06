@@ -3,7 +3,7 @@
  * @Github       : https://github.com/YuantingMaSC
  * @LastEditors  : yuanting 
  * @Date         : 2024-05-03 15:17:01
- * @LastEditTime : 2024-05-06 21:15:28
+ * @LastEditTime : 2024-05-06 21:16:40
  * @FilePath     : /YuantingMaSC/README.md
  * @Description  : 
  * Copyright (c) 2024 by Yuanting_Ma@163.com, All Rights Reserved. 
@@ -33,15 +33,13 @@ td, th {
 </p>
 
 <div style="display: flex; flex-wrap: wrap;">
-    <div style="flex: 1 1 50%; min-width: 300px; max-width: 50%;  display:inline-block;">
+    <div style="display:inline-block;">
         <!-- 左边内容 -->
         <ul style="list-style: none;">
             <li>🔭 I’m a PhD student in OUC, Qingdao</li>
             <li>🌱 Interested in deep learning, Programming</li>
             <li>🔑 System biology, Genome, Deep learning, Statistics</li>
         </ul>
-    </div>
-    <div style="flex: 1 1 50%; min-width: 300px; max-width: 45%; display:inline-block;">
         <!-- 右边内容 -->
         <img src="https://github-readme-stats.vercel.app/api?username=YuantingMaSc&show_icons=true&theme=transparent" alt="My GitHub stats">
     </div>
