@@ -3,7 +3,7 @@
  * @Github       : https://github.com/YuantingMaSC
  * @LastEditors  : yuanting 
  * @Date         : 2024-05-03 15:17:01
- * @LastEditTime : 2024-05-06 20:54:33
+ * @LastEditTime : 2024-05-06 20:56:39
  * @FilePath     : /YuantingMaSC/README.md
  * @Description  : 
  * Copyright (c) 2024 by Yuanting_Ma@163.com, All Rights Reserved. 
@@ -32,22 +32,21 @@ td, th {
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px" height="20">
 </p>
 
-<table style="border-collapse: collapse; width: 100%; border: none;">
-  <tr style="border: none;">
-    <!-- 左侧单元格：显示个人信息和兴趣 -->
-    <td valign="center" width="50%" style="border: none; padding: 10px;">
-      <ul style="list-style: none; padding: 0;">
-        <li>🔭 I’m a PhD student in OUC, Qingdao</li>
-        <li>🌱 Interested in deep learning, Programming</li>
-        <li>🔑 System biology, Genome, Deep learning, Statistics</li>
-      </ul>
-    </td>
-    <!-- 右侧单元格：显示GitHub统计信息图表 -->
-    <td valign="center" width="50%" style="border: none; padding: 10px;">
-      <img src="https://github-readme-stats.vercel.app/api?username=YuantingMaSc&show_icons=true&theme=transparent" alt="My GitHub stats">
-    </td>
-  </tr>
-</table>
+<div style="display: flex; justify-content: space-around; align-items: center; width: 100%;">
+  <!-- 左侧部分：个人信息和兴趣 -->
+  <div style="width: 50%; padding: 10px;">
+    <ul style="list-style: none; padding: 0;">
+      <li>🔭 I’m a PhD student in OUC, Qingdao</li>
+      <li>🌱 Interested in deep learning, Programming</li>
+      <li>🔑 System biology, Genome, Deep learning, Statistics</li>
+    </ul>
+  </div>
+  <!-- 右侧部分：GitHub统计信息图表 -->
+  <div style="width: 50%; padding: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=YuantingMaSc&show_icons=true&theme=transparent" alt="My GitHub stats" style="max-width: 100%;">
+  </div>
+</div>
+
 
 
 <!-- <a href="https://stats.hyochan.dev/en/stats/YuantingMaSc"><img src="https://stats.hyochan.dev/api/github-stats?login=YuantingMaSc" width="465" hight="300"/></a> -->
