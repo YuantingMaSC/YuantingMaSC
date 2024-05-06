@@ -3,7 +3,7 @@
  * @Github       : https://github.com/YuantingMaSC
  * @LastEditors  : yuanting 
  * @Date         : 2024-05-03 15:17:01
- * @LastEditTime : 2024-05-06 16:57:30
+ * @LastEditTime : 2024-05-06 17:09:28
  * @FilePath     : /YuantingMaSC/README.md
  * @Description  : 
  * Copyright (c) 2024 by Yuanting_Ma@163.com, All Rights Reserved. 
@@ -22,6 +22,16 @@
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/datascience.svg" alt="datascience" style="vertical-align:top; margin:4px" height="20">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px" height="20">
 </p>
+
+<style>
+table {
+    border-collapse: collapse;
+}
+td, th {
+    border: none
+    padding: 8px
+}
+</style>
 
 <table style="border-collapse: collapse; border: 0;">
   <tr>
