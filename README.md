@@ -23,9 +23,9 @@
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px" height="20">
 </p>
 
-<table style="border-collapse: collapse; border: none;">
+<table style="border-collapse: collapse; border: 0;">
   <tr>
-    <td valign="center" width="50%" style="border: none;">
+    <td valign="center" width="50%" style="border: 0;">
 
 - 🔭 I’m a PhD student in OUC, Qingdao
 
@@ -34,7 +34,7 @@
 - :key: System biology, Genome, Deep learning, Statistics
     </td>
     <!-- GitHub Readme Stats -->
-    <td valign="center" width="50%" style="border: none;">
+    <td valign="center" width="50%" style="border: 0;">
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=YuantingMaSc&show_icons=true&theme=transparent)
 
