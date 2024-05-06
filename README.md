@@ -3,7 +3,7 @@
  * @Github       : https://github.com/YuantingMaSC
  * @LastEditors  : yuanting 
  * @Date         : 2024-05-03 15:17:01
- * @LastEditTime : 2024-05-06 21:08:15
+ * @LastEditTime : 2024-05-06 21:09:30
  * @FilePath     : /YuantingMaSC/README.md
  * @Description  : 
  * Copyright (c) 2024 by Yuanting_Ma@163.com, All Rights Reserved. 
@@ -34,17 +34,17 @@ td, th {
 
 <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-top: 20px;">
 
-<div style="width: 48%; padding: 20px;">
-    <ul style="list-style: none; padding: 0; margin: 0;">
-        <li>🔭 I’m a PhD student in OUC, Qingdao</li>
-        <li>🌱 Interested in deep learning, Programming</li>
-        <li>🔑 System biology, Genome, Deep learning, Statistics</li>
-    </ul>
-</div>
+  <div style="width: 48%; padding: 20px;">
+      <ul style="list-style: none; padding: 0; margin: 0;">
+          <li>🔭 I’m a PhD student in OUC, Qingdao</li>
+          <li>🌱 Interested in deep learning, Programming</li>
+          <li>🔑 System biology, Genome, Deep learning, Statistics</li>
+      </ul>
+  </div>
 
-<div style="width: 48%; padding: 20px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=YuantingMaSc&show_icons=true&theme=transparent" alt="My GitHub stats" style="width: 100%; height: auto;">
-</div>
+  <div style="width: 48%; padding: 20px;">
+      <img src="https://github-readme-stats.vercel.app/api?username=YuantingMaSc&show_icons=true&theme=transparent" alt="My GitHub stats" style="width: 100%; height: auto;">
+  </div>
 
 </div>
 
