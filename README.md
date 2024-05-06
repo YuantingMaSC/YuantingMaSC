@@ -3,7 +3,7 @@
  * @Github       : https://github.com/YuantingMaSC
  * @LastEditors  : yuanting 
  * @Date         : 2024-05-03 15:17:01
- * @LastEditTime : 2024-05-06 21:11:35
+ * @LastEditTime : 2024-05-06 21:12:50
  * @FilePath     : /YuantingMaSC/README.md
  * @Description  : 
  * Copyright (c) 2024 by Yuanting_Ma@163.com, All Rights Reserved. 
@@ -41,7 +41,7 @@ td, th {
             <li>🔑 System biology, Genome, Deep learning, Statistics</li>
         </ul>
     </div>
-    <div style="flex: 1 1 50%; min-width: 300px; max-width: 50%;">
+    <div style="flex: 1 1 50%; min-width: 300px; max-width: 45%;">
         <!-- 右边内容 -->
         <img src="https://github-readme-stats.vercel.app/api?username=YuantingMaSc&show_icons=true&theme=transparent" alt="My GitHub stats">
     </div>
