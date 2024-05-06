@@ -3,7 +3,7 @@
  * @Github       : https://github.com/YuantingMaSC
  * @LastEditors  : yuanting 
  * @Date         : 2024-05-03 15:17:01
- * @LastEditTime : 2024-05-06 21:01:13
+ * @LastEditTime : 2024-05-06 21:02:22
  * @FilePath     : /YuantingMaSC/README.md
  * @Description  : 
  * Copyright (c) 2024 by Yuanting_Ma@163.com, All Rights Reserved. 
@@ -32,18 +32,23 @@ td, th {
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px" height="20">
 </p>
 
-<div style="width: 100%; text-align: center;">
-  <div style="display: inline-block; vertical-align: top; width: 50%; padding: 10px;">
-    <ul style="list-style: none; margin: 0; padding: 0;">
-      <li>🔭 I’m a PhD student in OUC, Qingdao</li>
-      <li>🌱 Interested in deep learning, Programming</li>
-      <li>🔑 System biology, Genome, Deep learning, Statistics</li>
-    </ul>
-  </div>
-  <div style="display: inline-block; vertical-align: top; width: 50%; padding: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=YuantingMaSc&show_icons=true&theme=transparent" alt="My GitHub stats" style="width: 100%; max-width: 400px; height: auto;">
-  </div>
-</div>
+<table>
+  <tr>
+    <!-- 左侧单元格：显示个人信息和兴趣 -->
+    <td>
+      <ul style="list-style: none; margin: 0; padding: 0;">
+        <li>🔭 I’m a PhD student in OUC, Qingdao</li>
+        <li>🌱 Interested in deep learning, Programming</li>
+        <li>🔑 System biology, Genome, Deep learning, Statistics</li>
+      </ul>
+    </td>
+    <!-- 右侧单元格：显示GitHub统计信息图表 -->
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=YuantingMaSc&show_icons=true&theme=transparent" alt="My GitHub stats" style="max-width: 100%; height: auto;">
+    </td>
+  </tr>
+</table>
+
 
 <!-- <a href="https://stats.hyochan.dev/en/stats/YuantingMaSc"><img src="https://stats.hyochan.dev/api/github-stats?login=YuantingMaSc" width="465" hight="300"/></a> -->
 
