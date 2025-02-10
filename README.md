@@ -1,9 +1,9 @@
 ﻿<!--
  * @Author       : Yuanting Ma
  * @Github       : https://github.com/YuantingMaSC
- * @LastEditors  : yuanting 
+ * @LastEditors  : Yuanting_Ma 
  * @Date         : 2024-05-03 15:17:01
- * @LastEditTime : 2024-12-06 14:41:03
+ * @LastEditTime : 2025-02-10 16:30:37
  * @FilePath     : /YuantingMaSC/README.md
  * @Description  : 
  * Copyright (c) 2024 by Yuanting_Ma@163.com, All Rights Reserved. 
@@ -23,7 +23,7 @@ td, th {
 }
 </style>
 -->
- <p align="left">
+<p align="left">
   <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
   <em><b> Languages & Tools: </b></em>
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px" height="16">
@@ -32,23 +32,22 @@ td, th {
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px" height="16">
 </p>
 
+<!-- 用 flex 代替 table -->
+<div style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap;">
+  <!-- 左侧信息 -->
+  <div style="flex: 1; min-width: 300px;">
+    <ul style="list-style: none; padding: 0; margin: 0;">
+      <li>🔭 I’m a PhD student in OUC, Qingdao</li>
+      <li>🌱 Interested in LLMs, Programming</li>
+      <li>🔑 System biology, Genomics, Deep learning, Statistics</li>
+    </ul>
+  </div>
 
-<table style="border-collapse: collapse; width: 100%; border: none;">
-  <tr style="border: none;">
-    <!-- 左侧单元格：显示个人信息和兴趣 -->
-    <td valign="center" width="50%" style="border: none;">
-      <ul style="list-style: none; padding: 0;">
-        <li>🔭 I’m a PhD student in OUC, Qingdao</li>
-        <li>🌱 Interested in deep learning, Programming</li>
-        <li>🔑 System biology, Genomics, Deep learning, Statistics</li>
-      </ul>
-    </td>
-    <!-- 右侧单元格：显示GitHub统计信息图表 -->
-    <td valign="center" width="50%" style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api?username=YuantingMaSc&show_icons=true&theme=transparent" alt="My GitHub stats">
-    </td>
-  </tr>
-</table>
+  <!-- 右侧 GitHub 统计 -->
+  <div style="flex: 1; text-align: center; min-width: 300px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=YuantingMaSc&show_icons=true&theme=transparent" alt="My GitHub stats">
+  </div>
+</div>
 
 
 
