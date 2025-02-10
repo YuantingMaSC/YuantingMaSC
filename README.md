@@ -40,7 +40,7 @@ td, th {
       <ul style="list-style: none; padding: 0;">
         <li>🔭 I’m a PhD student in OUC, Qingdao</li>
         <li>🌱 Interested in deep learning, Programming</li>
-        <li>🔑 System biology, Genome, Deep learning, Statistics</li>
+        <li>🔑 System biology, Genomics, Deep learning, Statistics</li>
       </ul>
     </td>
     <!-- 右侧单元格：显示GitHub统计信息图表 -->
