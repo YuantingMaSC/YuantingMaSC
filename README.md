@@ -3,13 +3,14 @@
  * @Github       : https://github.com/YuantingMaSC
  * @LastEditors  : Yuanting_Ma 
  * @Date         : 2024-05-03 15:17:01
- * @LastEditTime : 2025-02-10 16:37:26
+ * @LastEditTime : 2025-02-10 16:46:24
  * @FilePath     : /YuantingMaSC/README.md
  * @Description  : 
  * Copyright (c) 2024 by Yuanting_Ma@163.com, All Rights Reserved. 
 -->
 ### Yoo, This is Yuanting 👋
 <em><b> A person with interest as motivation. </b></em> [![Github Follow](https://img.shields.io/github/followers/YuantingMaSc?label=Follow%20Me&style=social)](https://github.com/YuantingMaSc)  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yuanting@stu.ouc.edu.cn)](mailto:yuanting@stu.ouc.edu.cn)
+
 <!--
 ###### - Languages and Tools...
   <span style="vertical-align: middle; color: black; font-size: 16px; font-family: 'Arial'; font-weight: bold;">Languages & Tools:</span>
