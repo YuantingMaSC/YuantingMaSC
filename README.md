@@ -1,9 +1,9 @@
 ﻿<!--
  * @Author       : Yuanting Ma
  * @Github       : https://github.com/YuantingMaSC
- * @LastEditors  : Yuanting_Ma 
+ * @LastEditors  : yuanting 
  * @Date         : 2024-05-03 15:17:01
- * @LastEditTime : 2025-02-10 16:28:06
+ * @LastEditTime : 2024-12-06 14:41:03
  * @FilePath     : /YuantingMaSC/README.md
  * @Description  : 
  * Copyright (c) 2024 by Yuanting_Ma@163.com, All Rights Reserved. 
@@ -23,7 +23,7 @@ td, th {
 }
 </style>
 -->
-<p align="left">
+ <p align="left">
   <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
   <em><b> Languages & Tools: </b></em>
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px" height="16">
@@ -32,18 +32,19 @@ td, th {
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px" height="16">
 </p>
 
-<table border="0" cellspacing="0" cellpadding="0" width="100%">
-  <tr>
+
+<table style="border-collapse: collapse; width: 100%; border: none;">
+  <tr style="border: none;">
     <!-- 左侧单元格：显示个人信息和兴趣 -->
-    <td width="50%" align="left">
-      <ul style="list-style: none; padding: 0; margin: 0;">
+    <td valign="center" width="50%" style="border: none;">
+      <ul style="list-style: none; padding: 0;">
         <li>🔭 I’m a PhD student in OUC, Qingdao</li>
         <li>🌱 Interested in deep learning, Programming</li>
         <li>🔑 System biology, Genome, Deep learning, Statistics</li>
       </ul>
     </td>
     <!-- 右侧单元格：显示GitHub统计信息图表 -->
-    <td width="50%" align="center">
+    <td valign="center" width="50%" style="border: none;">
       <img src="https://github-readme-stats.vercel.app/api?username=YuantingMaSc&show_icons=true&theme=transparent" alt="My GitHub stats">
     </td>
   </tr>
