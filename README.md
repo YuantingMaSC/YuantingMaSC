@@ -32,19 +32,19 @@ td, th {
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px" height="16">
 </p>
 
-<!-- 用 flex 代替 table -->
+<!-- 使用 Flexbox 让内容左右对齐 -->
 <div style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap;">
-  <!-- 左侧信息 -->
-  <div style="flex: 1; min-width: 300px;">
+  <!-- 个人信息 -->
+  <div style="flex: 1; min-width: 300px; text-align: left;">
     <ul style="list-style: none; padding: 0; margin: 0;">
-      <li>🔭 I’m a PhD student in OUC, Qingdao</li>
+      <li>🔬 I’m a PhD student in OUC, Qingdao</li>
       <li>🌱 Interested in LLMs, Programming</li>
       <li>🔑 System biology, Genomics, Deep learning, Statistics</li>
     </ul>
   </div>
 
-  <!-- 右侧 GitHub 统计 -->
-  <div style="flex: 1; text-align: center; min-width: 300px;">
+  <!-- GitHub 统计信息 -->
+  <div style="flex: 1; min-width: 300px; text-align: center;">
     <img src="https://github-readme-stats.vercel.app/api?username=YuantingMaSc&show_icons=true&theme=transparent" alt="My GitHub stats">
   </div>
 </div>
