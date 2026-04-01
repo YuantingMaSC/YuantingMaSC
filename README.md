@@ -27,10 +27,10 @@ td, th {
  <p align="left">
   <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
   <em><b> Languages & Tools: </b></em>
-  <img src="https://raw.gitmirror/8bithemant/8bithemant/master/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px" height="16">
-  <img src="https://raw.gitmirror/8bithemant/8bithemant/master/svg/dev/languages/csharp.svg" alt="csharp" style="vertical-align:top; margin:4px" height="16">
-  <img src="https://raw.gitmirror/8bithemant/8bithemant/master/svg/dev/misc/datascience.svg" alt="datascience" style="vertical-align:top; margin:4px" height="16">
-  <img src="https://raw.gitmirror/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px" height="16">
+  <img src="https://raw.gitmirror.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px" height="16">
+  <img src="https://raw.gitmirror.com/8bithemant/8bithemant/master/svg/dev/languages/csharp.svg" alt="csharp" style="vertical-align:top; margin:4px" height="16">
+  <img src="https://raw.gitmirror.com/8bithemant/8bithemant/master/svg/dev/misc/datascience.svg" alt="datascience" style="vertical-align:top; margin:4px" height="16">
+  <img src="https://raw.gitmirror.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px" height="16">
 </p>
 
 
@@ -64,6 +64,6 @@ td, th {
 
 </div>
 <p align="center">
-        <img src="https://raw.gitmirror/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats"/>
+        <img src="https://raw.gitmirror.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats"/>
 </p>
 
