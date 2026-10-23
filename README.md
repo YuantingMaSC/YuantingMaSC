@@ -9,8 +9,7 @@
  * Copyright (c) 2024 by Yuanting_Ma@163.com, All Rights Reserved. 
 -->
 ### Yoo, This is Yuanting 👋
-<em><b> A person with interest as motivation. </b></em> [![Github Follow](https://img.shields.io/github/followers/YuantingMaSc?label=Follow%20Me&style=social)](https://github.com/YuantingMaSc)  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yuanting@stu.ouc.edu.cn)](mailto:yuanting@stu.ouc.edu.cn)
-
+<em><b> A person with interest as motivation. </b></em> [![Github Follow](https://img.shields.io/github/followers/YuantingMaSc?label=Follow%20Me&style=social)](https://github.com/YuantingMaSc) 
 <!--
 ###### - Languages and Tools...
   <span style="vertical-align: middle; color: black; font-size: 16px; font-family: 'Arial'; font-weight: bold;">Languages & Tools:</span>
@@ -28,7 +27,6 @@ td, th {
   <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
   <em><b> Languages & Tools: </b></em>
   <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/master/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px" height="16">
-  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/master/svg/dev/languages/csharp.svg" alt="csharp" style="vertical-align:top; margin:4px" height="16">
   <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/master/svg/dev/misc/datascience.svg" alt="datascience" style="vertical-align:top; margin:4px" height="16">
   <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px" height="16">
 </p>
