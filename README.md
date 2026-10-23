@@ -60,7 +60,7 @@ td, th {
 
 <div align="center">
 
-[![trophy](https://github-trophies.vercel.app/?username=YuantingMaSc&theme=monokai&column=-1&no-frame=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-trophies.vercel.app/?username=YuantingMaSc&theme=monokai&column=7&no-frame=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 <p align="center">
